@@ -1,1 +1,1 @@
-![Chao Fan GitHub stats](https://github-readme-stats.vercel.app/api?username=fanchaot&show_icons=true)<img src="https://pica.zhimg.com/50/v2-0beb230f62ddc0ef922fbf189f4f0804_720w.jpg?source=1940ef5c" data-rawwidth="635" data-rawheight="256" data-size="normal" data-caption="" data-default- class="origin_image zh-lightbox-thumb" width="635"/>
+![Chao Fan GitHub stats](https://github-readme-stats.vercel.app/api?username=fanchaot&show_icons=true)
